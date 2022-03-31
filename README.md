@@ -17,11 +17,14 @@ Marco Bertone - Fear Index
 James Miller - Volatility Index  
 
 **Repo Structure:**  
-Readme  
+Readme
+Resources
 notebook1  
 notebook2  
 notebook3  
 etc  
 
-
-
+**Data Sources**  
+[WTI 1946 to Present Monthly](https://www.macrotrends.net/1369/crude-oil-price-history-chart)
+[Crude Prices 1861 to Present Annual](https://ourworldindata.org/grapher/crude-oil-prices)
+*add additional source references here*
