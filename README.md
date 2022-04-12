@@ -12,7 +12,7 @@ Fadiya Ahmed - Gold
 Morgan Blackmore - Counter cyclical assets  
 Christopher Garcia - Jet Fuel  
 Marco Bertone - Fear Index  
-James Miller - Volatility Index  
+James Miller - Consumer Price Index and Federal Reserve Interest rate 
 
 **Repo Structure:**  
 Readme  
